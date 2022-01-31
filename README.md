@@ -1,6 +1,6 @@
 ## Configuring Github with your Terminal
 
-1. In your Terminal, Run the following lines:
+1. In your Terminal, Run the following lines. Be sure to replace `Your Name` and `Your Github Email Address` with your actual Github login information:
 
 ```sh
 git config --global user.name "Your Name"
