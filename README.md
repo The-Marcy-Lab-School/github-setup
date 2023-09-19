@@ -1,3 +1,7 @@
+# Create a Github Account
+
+[Create a free Github Account](https://github.com/join). Remember the email and username that you enter. If you already have one, you can skip to the next step.
+
 ## Configuring Github with your Terminal
 
 1. In your Terminal, Run the following lines. Be sure to replace `Your Name` and `Your Github Email Address` with your actual Github login information:
