@@ -3,7 +3,7 @@
 You will be using Github individually and collaboratively. We will set up your computer to be able to communicate with your Github account. You'll be able to clone code from a
 remote repo using SSH and make changes to it on your computer.
 
-### Create a Github Account
+## Create a Github Account
 
 [Create a free Github Account](https://github.com/join). Remember the email and username that you enter. If you already have one, you can skip to the next step.
 
@@ -19,13 +19,14 @@ git config --global credential.helper store
 
 2. Confirm that the configuration was successful by running `git config --global user.name`. The terminal should print out your name. Next, run `git config --global user.email`. The terminal should print our your email address.
 
-### Create a Repository on Github
+## Create a Repository on Github
 
 1. Navigate to Github in the browser and log in. ON the left, click the button to create a new repository.
 
 ![1](./assets/1.png)
 
-2. Name your repository `my-first-repo`. Choose to add a README.md file. Create the repository.
+## Name your repository
+Name your repository `my-first-repo`. Choose to add a README.md file. Create the repository.
 
 ![2](./assets/2.png)
 
@@ -57,7 +58,7 @@ Put a description title. For example, if you are setting up your AWS Cloud 9, ad
 
 ![8](./assets/8.png)
 
-### Clone Using SSH
+## Clone Using SSH
 
 1. Go back to your repository on Github. Then, click on the Code button and make sure the pop-up has "SSH" underlined and selected. The url should start with `git@github.com:...`. If this is not the case, click the link that say `SSH`. Copy that URL in the text box.
 
