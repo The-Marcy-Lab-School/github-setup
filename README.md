@@ -53,9 +53,9 @@ Click the "New SSH key" button:
 
 ![7](./assets/7.png)
 
-Put a description title about what environment the SSH key is associated to. For example, if you are setting up your personal computer, something like "Personal Computer", or "Mary Computer". Paste the key in the text area and click "Add SSH key".
+Put a description title about what environment the SSH key is associated to. For example, if you are setting up a Marcy Macbook, name it something like "Marcy Macbook", or if it's your personal laptop you can name it "Personal Marcy Computer". Open the 'Key type' dropdown and select 'Authentication Key'. Paste the key in the text area and click "Add SSH key".
 
-![8](./assets/8.png)
+![9](./assets/9.png)
 
 ## Clone Using SSH
 
@@ -67,7 +67,7 @@ Put a description title about what environment the SSH key is associated to. For
 
 3. Then change directory into your project `cd my-first-repo` or whatever you named your repository. 
 
-4. Once your repo can been cloned down, use the vsCode IDE to update the `README.md` **inside of your `my-first-repo` project**. This is not to be confused with the `README.md` in the root folder of your environment. You should speficially open and edit the one in your `my-first-repo` folder. **Add a 3-4 sentence bio about yourself**. Be sure to save the file.
+4. Once your repo can been cloned down, use the vsCode IDE to update the `README.md` **inside of your `my-first-repo` project**. This is not to be confused with the `README.md` in the root folder of your environment. You should specifically open and edit the one in your `my-first-repo` folder. **Add a 3-4 sentence bio about yourself**. Be sure to save the file.
 
 5. Push the changes back up to Github using best practices. In the terminal, run:
 ```sh
