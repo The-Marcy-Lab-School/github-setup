@@ -63,7 +63,7 @@ Put a description title about what environment the SSH key is associated to. For
 
 ![13](./assets/13.png)
 
-2. Back in your code editor's terminal, make sure that you have a `Unit-0` folder and that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone <ssh_url>`, replacing `<ssh_url>` with the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
+2. Back in your code editor's terminal, make sure that you have a `Unit-0` folder and that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone repo_ssh_url`, replacing `repo_ssh_url` with the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
 
 3. Then change directory into your project `cd my-first-repo` or whatever you named your repository. 
 
